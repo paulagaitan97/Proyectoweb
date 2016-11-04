@@ -1,0 +1,13 @@
+
+.oculto{
+    display: none;
+}
+#info{
+    color: red;
+}
+.menu{
+    width: 20%;
+}
+.contenido{
+    width: 80%;
+}
